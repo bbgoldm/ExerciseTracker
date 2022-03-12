@@ -24,7 +24,6 @@ Each document in the collection must have the following properties
 | unit     | String    | The unit of measurement of the weight. Only values allowed are `kgs` and `lbs` |
 | date     | String    | The date the exercise was performed. Specified as MM-DD-YY, e.g., 07-30-21.    |
 
-Table
 
 ## REST API Web Service
 
